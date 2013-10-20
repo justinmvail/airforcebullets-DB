@@ -1,0 +1,19 @@
+1,Airman Basic,AB,E1
+2,Airman,Amn,E2
+3,Airman First Class,A1C,E3
+4,Senior Airman,SrA,E4
+5,Staff Sergeant,SSgt,E5
+6,Technical Sergeant,TSgt,E6
+7,Master Sergeants,MSgt,E7
+8,Senior Master Sergeant,SMSgt,E8
+9,Chief Master Sergeant,CMSgt,E9
+11,Second Lieutenant,2nd Lt,O1
+12,First Lieutenant,1st Lt,O2
+13,Captain,Capt,O3
+14,Major,Maj,O4
+15,Lieutenant Colonel,Lt Col,O5
+16,Colonel,Col,O6
+17,Brigadier General,Brig Gen,O7
+18,Major General,Maj Gen,O8
+19,Lieutenant General,Lt Gen,O9
+20,General,Gen,O10
